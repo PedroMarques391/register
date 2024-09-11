@@ -10,9 +10,12 @@ Esta é uma aplicação móvel básica desenvolvida como parte do aprendizado em
 - **Edição de Dados**: Os usuários podem atualizar suas informações de perfil conforme necessário.
 - **Exclusão de Conta**: Oferece a opção de excluir a conta de um usuário, removendo suas informações da aplicação.
 
-- ![Home](./assets/IMG_081.png)
-- ![Edit User](./assets/IMG_082.png)
-- ![Add User](./assets/IMG_083.png)
+<div> 
+  <img src="./assets/IMG_0081.png" alt="Home" style="width: 30%; margin-right: 10px;"/> 
+  <img src="./assets/IMG_0082.png" alt="Edit User" style="width: 30%; margin-right: 10px;"/> 
+  <img src="./assets/IMG_0083.png" alt="Add User" style="width: 30%;"/> 
+</div>
+
 ## Tecnologias Utilizadas
 
 - **JavaScript**: Linguagem de programação principal para o desenvolvimento.
