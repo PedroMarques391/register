@@ -10,10 +10,9 @@ Esta é uma aplicação móvel básica desenvolvida como parte do aprendizado em
 - **Edição de Dados**: Os usuários podem atualizar suas informações de perfil conforme necessário.
 - **Exclusão de Conta**: Oferece a opção de excluir a conta de um usuário, removendo suas informações da aplicação.
 
-- ![Home](asserts/img/)
-- ![Edit User](asserts/img/)
-- ![Add User](asserts/img/)
-
+- ![Home](./assets/IMG_081.png)
+- ![Edit User](./assets/IMG_082.png)
+- ![Add User](./assets/IMG_083.png)
 ## Tecnologias Utilizadas
 
 - **JavaScript**: Linguagem de programação principal para o desenvolvimento.
